@@ -26,3 +26,4 @@ To support data-driven decision-making by transforming raw financial data into c
 - Identify performance gaps
 - Track trends over time
 - Monitor expenses and profitability
+<img width="1744" height="812" alt="Screenshot 2026-06-14 105509" src="https://github.com/user-attachments/assets/44d01b88-34f8-4c8f-af55-7aa7a7c4ce5e" />
